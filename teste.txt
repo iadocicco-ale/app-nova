@@ -1,1 +1,16 @@
 teste
+
+192.168.1.50    master
+192.168.1.51    node01
+192.168.1.52    node02
+
+# Cluster Kubernetes 02
+192.168.1.53    master20
+192.168.1.54    node21
+192.168.1.55    node22
+
+# CI / CD
+192.168.1.60    jenkins01
+192.168.1.100   client
+192.168.1.111   docker01
+192.168.1.112   runnerlnx
