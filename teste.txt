@@ -16,3 +16,4 @@ teste
 192.168.1.112   runnerlnx
 
 teste...
+ls
